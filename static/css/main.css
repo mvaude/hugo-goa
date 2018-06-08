@@ -260,3 +260,10 @@ pre > code {
     word-wrap: initial;
     word-break: initial;
 }
+table {
+    width: 100%;
+}
+table th {
+    text-align: center;
+    vertical-align: middle;
+}
